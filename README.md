@@ -2,7 +2,7 @@
 
 Exploring two complementary axes of neural network efficiency — **data-side compression** via gradient-based coreset selection and **model-side compression** via post-training quantization — and their interaction.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai23resch04001/quant-efficiency-research/blob/main/quantization_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/einnewfeyhaw/quant-efficiency-research/blob/main/quantization_analysis.ipynb)
 
 ---
 
